@@ -4,5 +4,6 @@
   { "nick_name": "콘드", "clear_time": "53:21", "hints_used":2, "rank" : "c",  "stage_name" : "DAY1"},
   { "nick_name": "반성합니다", "clear_time": "60:00", "hints_used":2, "rank" : "c",  "stage_name" : "DAY1"},
   { "nick_name": "께로", "clear_time": "60:00", "hints_used":2, "rank" : "c",  "stage_name" : "DAY1"},
-  { "nick_name": "반성합니다", "clear_time": "60:00", "hints_used":1, "rank" : "b",  "stage_name" : "DAY2"}
+  { "nick_name": "반성합니다", "clear_time": "60:00", "hints_used":1, "rank" : "b",  "stage_name" : "DAY2"},
+  { "nick_name": "반성합니다", "clear_time": "60:00", "hints_used":2, "rank" : "c",  "stage_name" : "DAY3"}
 ]
